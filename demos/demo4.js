@@ -1,8 +1,10 @@
 /**
- * SHOWN TO EXPOSE YOU TO THE CONCEPTS OF BY-PASSING THE ESLint RULES
+ * Overriding ESLint RULES
  *
- * - NEVER NEED TO USE THEM
- * - Talk to UI Developer if you have problems (will give you a workaround)
+ * !!!!!!!!!!!!!!!!NEVER NEED TO USE THEM!!!!!!!!!!!!!!!!!!!!
+ * Shown only to expose you to them
+ *
+ * Talk to UI Developer if you have problems (will give you a workaround)
 */
 
 /**

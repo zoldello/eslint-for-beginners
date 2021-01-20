@@ -1,5 +1,5 @@
 /**
- * Code smells. Either use this-keyword
+ * Example where ESLint cannot auto-correct.
  */
 
 class Calculator {
